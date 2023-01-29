@@ -1,7 +1,7 @@
 <div align="center">
-    ![GrandConnectIcon](https://user-images.githubusercontent.com/57610694/215319043-cc4e0bee-aca0-4aa1-a4c2-a00e382c3b82.png)
-    X
-    <img alt="verbwire" src="resources/rocketLauncher_.gif"/>
+    <img height=150 alt="verbwire" src="resources/rocketLauncher_.gif"/>
+    <h1>X <h1>
+    <img height=150 alt="grandconnect" src="resources/GrandConnectIcon.png"/>
 </div>
 
 # fastMint with GrandConnect
