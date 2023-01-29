@@ -3,9 +3,10 @@
 </div>
 
 # fastMint with GrandConnect
-<!-- <div align="center"> -->
-   [<img src="resources/grandconnectNFTSample.png" width="50%">](https://youtu.be/eBz9P2HWlzk "Tutorial walk through")
-<!-- </div> -->
+
+https://user-images.githubusercontent.com/57610694/215318999-469106cb-0f01-4cc8-b18f-9f60895b8239.mp4
+
+
 We don't realise how precious our conversations with others are until we are no longer able to have them. One way of preserving these conversations is by keeping them forever on the blockchain, so that that you can revisit them in the future, and know which conversations led to which. This simple minting app was built using the Verbwire API based on the Verbwire tutorial. The app lets you mint an NFT from metadata file based on conversations that you have had on GrandConnect. You can mint on any of the 14 supported blockchains (7 testnets and 7 mainnets). For more details on using the Verbwire API you can access the full API docs [here](https://docs.verbwire.com/docs)
 
 ## Requirements
